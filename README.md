@@ -17,4 +17,5 @@ Algoritma-algoritma yang digunakan oleh program minimum spanning tree (MST) meli
 * algoritma Kruskal,
 * algoritma Prim, dan
 * algoritma Solin.
+
 Algoritma yang digunakan oleh program pencari jarak terpendek dari satu vertex ke vertex lain adalah algoritma Djikstra.
