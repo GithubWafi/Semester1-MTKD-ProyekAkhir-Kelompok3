@@ -1,8 +1,8 @@
-# Graf Kebun Bintang Ragunan
+# Graf Taman Margasatwa Ragunan
 ## Deskripsi
 Repositori kelompok 3 untuk proyek akhir Matematika Diskrit (MTKD).
 Repositori ini berisi:
-* graf jalan kaki area Kebun Binatang Ragunan, Pasar Minggu, Jakarta Selatan, DKI Jakarta, Indonesia (dalam file .graphml),
+* graf jalan kaki area Taman Margasatwa Ragunan, Pasar Minggu, Jakarta Selatan, DKI Jakarta, Indonesia (dalam file .graphml),
 * program untuk konversi file .graphml di atas guna program-program di bawah,
 * program pewarnaan graf di atas,
 * program untuk mencari minimum spanning tree (MST) dari graf di atas, dan
