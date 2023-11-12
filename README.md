@@ -13,6 +13,7 @@ Setiap program dalam repositori ini dibuat dalam bahasa pemrograman C++.
 
 ## Algortima-Algoritma
 Algoritma yang digunakan oleh program pewarnaan graf adalah algoritma Welch-Powell.
+
 Algoritma-algoritma yang digunakan oleh program minimum spanning tree (MST) meliputi:
 * algoritma Kruskal,
 * algoritma Prim, dan
